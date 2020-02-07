@@ -1,5 +1,4 @@
 package com.example.datepicker;
-
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.DatePickerDialog;
