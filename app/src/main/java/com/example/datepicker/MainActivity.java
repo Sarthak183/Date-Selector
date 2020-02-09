@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
         result = findViewById(R.id.textresultdate);
         btn = findViewById(R.id.btnpickdate);
         btn.setOnClickListener(new View.OnClickListener() {
