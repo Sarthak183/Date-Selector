@@ -23,7 +23,6 @@ public class MainActivity extends AppCompatActivity {
 
         result = findViewById(R.id.textresultdate);
         btn = findViewById(R.id.btnpickdate);
-
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
